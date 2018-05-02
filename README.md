@@ -1,7 +1,6 @@
-# My first Project
+#台股爬蟲簡易版
 
-test
-
-- list **item1**
-- list item2
-- list item3
+第一個台股爬蟲
+- list **item** 1
+- list item 2
+- list item 3
